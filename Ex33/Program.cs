@@ -8,6 +8,7 @@ namespace Ex33
         {
             RectAngle rectAngle1 = new RectAngle(3, 5);
             RectAngle rectAngle2 = new RectAngle(2, 4);
+
             if(rectAngle1 == rectAngle2)
             {
                 Console.WriteLine("rectAngle1とrectAngle2は等しい");
